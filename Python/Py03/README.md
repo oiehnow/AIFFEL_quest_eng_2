@@ -8,7 +8,7 @@
     -<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed29b99d-1dbc-4bc0-b642-89de54805107" />
                 while, try, except 를 통해 정수를 입력을 하도록 제출되었습니다.
         - <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d8e8e028-495f-4c86-a58a-7d123ed07b91" />
-
+            -계산기 기능과 제로 디비전 문제도 구현되었습니다.
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?
